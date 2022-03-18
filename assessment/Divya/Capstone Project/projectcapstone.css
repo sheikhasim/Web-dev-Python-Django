@@ -1,0 +1,58 @@
+body{
+
+    background-color: antiquewhite;
+    text-align: center;
+    border: 10px solid #f30957;
+    padding: 10px;
+    margin: auto;
+
+}
+
+.crazy{
+    color: green;
+    text-align: left;
+    text-size-adjust: 1.5em;
+    font-family: sans-serif;
+    padding: 1%;
+    
+}
+.temp{
+    color: rgb(22, 3, 73);
+    text-align: center;
+    font-size: x-large;
+    padding: 1%;
+    font-family: cursive;
+}
+
+.welcome{
+    color: #2cafe1;
+    text-align: center;
+
+}
+.main{
+    color: rgb(8, 216, 253);
+}
+
+p{
+    text-align: left;
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+form{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+
+}
+#sub{
+    background-color: red;
+    height: 80px;
+    width: 150px;
+    margin: 4px;
+    margin-top: 12px;
+    font-size: 1em;
+    border-radius: 25px;
+}
